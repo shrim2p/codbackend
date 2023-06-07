@@ -1,0 +1,15 @@
+C:\Users\SHR1M2P\Desktop\SENAI\CodBACKEND\obj\Debug\net7.0\CodBACKEND.csproj.AssemblyReference.cache
+C:\Users\SHR1M2P\Desktop\SENAI\CodBACKEND\obj\Debug\net7.0\CodBACKEND.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHR1M2P\Desktop\SENAI\CodBACKEND\obj\Debug\net7.0\CodBACKEND.AssemblyInfoInputs.cache
+C:\Users\SHR1M2P\Desktop\SENAI\CodBACKEND\obj\Debug\net7.0\CodBACKEND.AssemblyInfo.cs
+C:\Users\SHR1M2P\Desktop\SENAI\CodBACKEND\obj\Debug\net7.0\CodBACKEND.csproj.CoreCompileInputs.cache
+C:\Users\SHR1M2P\Desktop\SENAI\CodBACKEND\bin\Debug\net7.0\CodBACKEND.exe
+C:\Users\SHR1M2P\Desktop\SENAI\CodBACKEND\bin\Debug\net7.0\CodBACKEND.deps.json
+C:\Users\SHR1M2P\Desktop\SENAI\CodBACKEND\bin\Debug\net7.0\CodBACKEND.runtimeconfig.json
+C:\Users\SHR1M2P\Desktop\SENAI\CodBACKEND\bin\Debug\net7.0\CodBACKEND.dll
+C:\Users\SHR1M2P\Desktop\SENAI\CodBACKEND\bin\Debug\net7.0\CodBACKEND.pdb
+C:\Users\SHR1M2P\Desktop\SENAI\CodBACKEND\obj\Debug\net7.0\CodBACKEND.dll
+C:\Users\SHR1M2P\Desktop\SENAI\CodBACKEND\obj\Debug\net7.0\refint\CodBACKEND.dll
+C:\Users\SHR1M2P\Desktop\SENAI\CodBACKEND\obj\Debug\net7.0\CodBACKEND.pdb
+C:\Users\SHR1M2P\Desktop\SENAI\CodBACKEND\obj\Debug\net7.0\CodBACKEND.genruntimeconfig.cache
+C:\Users\SHR1M2P\Desktop\SENAI\CodBACKEND\obj\Debug\net7.0\ref\CodBACKEND.dll
